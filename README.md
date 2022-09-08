@@ -1,1 +1,3 @@
-Simple Shell Team Project Readme
+ALX COLLABORATORS PROJECT
+
+# SHELL
